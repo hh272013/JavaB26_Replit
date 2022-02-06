@@ -8,6 +8,6 @@ public class Q01_Hello_World_1 {
         Remember: Code statements must be written inside of the main method
         Main topics: main method, print statement
          */
-        System.out.println("Hello world!");
+        System.out.println("Hello world");
     }
 }
