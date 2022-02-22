@@ -32,11 +32,11 @@ public class GradeLevel {
         int age = input.nextInt();
 
         //WRITE YOUR CODE BELOW
-        if (age < 3)
+        if (age < 3) {
             System.out.println("ineligible");
-        else if (age < 5)
+        } else if (age < 5) {
             System.out.println("preschool");
-        else if (age == 5)
+        } else if (age == 5)
             System.out.println("kindergarten");
         else if (age < 11)
             System.out.println("elementary school");
