@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment_02_05;
 
 public class Q09_Primitives_2 {
     /*

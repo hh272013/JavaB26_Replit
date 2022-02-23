@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment_02_05;
 
 public class Q01_Hello_World_1 {
     public static void main(String[] args) {
